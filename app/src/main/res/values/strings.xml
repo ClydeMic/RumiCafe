@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Rumi Cafe</string>
+    <string name="action_settings">Settings</string>
+    <string name="droid_deserts">Droid Deserts</string>
+    <string name="choose_desert">Choose Desert</string>
+    <string name="doughnuts_are_glazed_and_sprinkled_with_candy">Doughnuts are glazed and sprinkled with candy</string>
+    <string name="ice_sandwiches_have_a_variety_of_flavours_with_sprinkles_on_top">Ice sandwiches have a variety of flavours with sprinkles on top</string>
+    <string name="froyo_is_a_premium_self_served_frozen_yoghurt">Froyo is a premium self-served frozen yoghurt</string>
+
+    <string name="doughnut_order">"You have ordered a doughnut"</string>
+    <string name="icecream_order">"You have ordered an icecream"</string>
+    <string name="froyo_order">"You have ordered froyo"</string>
+    <string name="choose_delivery_method">Choose delivery method</string>
+    <string name="same_day_messenger_service">Same Day Messenger Service</string>
+    <string name="next_day_ground_delivery">Next Day Ground Delivery</string>
+    <string name="pick_up">Pick Up</string>
+    <string name="about_us">About Us</string>
+    <string name="status">Status</string>
+    <string name="call_us">Call Us</string>
+    <string name="locate_us">Locate Us</string>
+    <string name="orders">Orders</string>
+    <string name="order_message">Order Message</string>
+</resources>
